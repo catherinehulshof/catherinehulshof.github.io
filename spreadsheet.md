@@ -32,18 +32,12 @@ and plan new data collection so less data wrangling is needed.
 > their own computers to insure the proper setup of tools for an efficient 
 > workflow. <br>**These lessons assume no prior knowledge of the skills or tools.**
 >
-> To get started, follow the directions in the "[Setup]({{ relative_root_path }}/{% link setup.md %})" tab to 
+> To get started, follow the directions in the "[Setup](setup.md)" tab to 
 > download data to your computer and follow any installation instructions.
 >
 > #### Prerequisites
 >
 > This lesson requires a working copy of spreadsheet software, such as Microsoft
-> Excel or LibreOffice or OpenOffice.org (see more details in "[Setup]({{ relative_root_path }}/{% link setup.md %})").
+> Excel or LibreOffice or OpenOffice.org (see more details in "[Setup](setup.md)").
 > <br>To most effectively use these materials, please make sure to install 
 > everything *before* working through this lesson.
-{: .prereq}
-
-> ## For Instructors
-> If you are teaching this lesson in a workshop, please see the 
-> [Instructor notes](guide/).
-{: .prereq}
