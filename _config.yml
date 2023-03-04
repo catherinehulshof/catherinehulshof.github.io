@@ -1,3 +1,13 @@
+---
 theme: jekyll-theme-minimal
 title: Data Science Basics 
 description: Scientists in Parks
+defaults:
+    # _docs
+    - scope:
+        path: ""
+        type: main
+      values:
+        sidebar:
+          nav: "main"
+  ---        
