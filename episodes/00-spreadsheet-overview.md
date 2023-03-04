@@ -1,3 +1,5 @@
+## Overview
+
 Good data organization is the foundation of any research project. Most 
 researchers have data in spreadsheets, so it's the place that many research
 projects start. 
@@ -39,11 +41,12 @@ and plan new data collection so less data wrangling is needed.
 >
 > This lesson requires a working copy of spreadsheet software, such as Microsoft
 > Excel or LibreOffice or OpenOffice.org (see more details in "[Setup](setup.md)").
+> 
 > <br>To most effectively use these materials, please make sure to install 
 > everything *before* working through this lesson.
 
 
-Schedule
+## Schedule
 | [Setup](setup.md)                      | Download files required for the lesson                                                          | 
 |-------------------------------------------|-------------------------------------------------------------------------------------------------| 
 | 1. [Introduction](00-spreadsheet-intro.md)                           | What are basic principles for using spreadsheets for good data organization?                    |  
