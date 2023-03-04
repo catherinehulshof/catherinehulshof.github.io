@@ -25,6 +25,7 @@ Overview of the lessons:
 There are two lessons in this section. The first is a spreadsheet lesson that teaches good data organization, and some data cleaning and quality control checking in a spreadsheet program.
 
   * [spreadsheet lesson](http://datacarpentry.org/spreadsheet-ecology-lesson/)
+  * [spreadsheet lesson](episodes/00-spreadsheet-overview/)
 
 The second lesson uses a spreadsheet-like program called [OpenRefine](http://openrefine.org/) to teach data cleaning and filtering
 
