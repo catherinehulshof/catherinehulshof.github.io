@@ -6,7 +6,7 @@ This workshop is built from the Carpentries lessons. The Carpentries' aim is to 
 
 The workshop uses a single tabular data set that contains observations about adorable small mammals over a long period of time in Arizona.
 
-[Setup and installation](/docs/startup.md)
+[Setup and installation](startup.md)
 
 Data download
 
