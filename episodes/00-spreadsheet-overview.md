@@ -51,8 +51,8 @@ and plan new data collection so less data wrangling is needed.
 |-------------------------------------------|-------------------------------------------------------------------------------------------------| 
 | 1. [Introduction](00-spreadsheet-intro.md)                           | What are basic principles for using spreadsheets for good data organization?                    |  
 | 2. [Formatting data tables in Spreadsheets](01-spreadsheet-format-data.md) | How do we format data in spreadsheets for effective data use?                                   | 
-| 3. [Formatting problems](02-spreadsheets-common-mistakes.md)                    | What are some common challenges with formatting data in spreadsheets and how can we avoid them? | 
-| 4. [Dates as data](03-spreadsheets-dates-as-data.md)                          | What are good approaches for handling dates in spreadsheets?                                    |  
-| 5. [Quality control](04-spreadsheets-quality-control.md)                        | How can we carry out basic quality control and quality assurance in spreadsheets?               |   
-| 6. [Exporting data](05-spreadsheets-export-data.md)                         | How can we export data from spreadsheets in a way that is useful for downstream applications?   | 
+| 3. [Formatting problems](02-spreadsheet-common-mistakes.md)                    | What are some common challenges with formatting data in spreadsheets and how can we avoid them? | 
+| 4. [Dates as data](03-spreadsheet-dates-as-data.md)                          | What are good approaches for handling dates in spreadsheets?                                    |  
+| 5. [Quality control](04-spreadsheet-quality-control.md)                        | How can we carry out basic quality control and quality assurance in spreadsheets?               |   
+| 6. [Exporting data](05-spreadsheet-export-data.md)                         | How can we export data from spreadsheets in a way that is useful for downstream applications?   | 
 | Finish                                    |                                                                                                 | 
