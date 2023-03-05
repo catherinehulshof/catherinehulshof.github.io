@@ -8,9 +8,6 @@ The workshop uses a single tabular data set that contains observations about ado
 
 [Setup and installation](setup.md)
 
-Data download
-
-
 
 Overview of the lessons:
 
