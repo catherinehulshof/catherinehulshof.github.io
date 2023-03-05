@@ -40,14 +40,14 @@ and plan new data collection so less data wrangling is needed.
 > #### Prerequisites
 >
 > This lesson requires a working copy of spreadsheet software, such as Microsoft
-> Excel or LibreOffice or OpenOffice.org (see more details in "[Setup](setup.md)").
+> Excel or LibreOffice or OpenOffice.org (see more details in "[Setup](../setup.md)").
 > 
 > <br>To most effectively use these materials, please make sure to install 
 > everything *before* working through this lesson.
 
 
 ## Schedule
-| [Setup](setup.md)                      | Download files required for the lesson                                                          | 
+| [Setup](../setup.md)                      | Download files required for the lesson                                                          | 
 |-------------------------------------------|-------------------------------------------------------------------------------------------------| 
 | 1. [Introduction](00-spreadsheet-intro.md)                           | What are basic principles for using spreadsheets for good data organization?                    |  
 | 2. [Formatting data tables in Spreadsheets](01-spreadsheet-format-data.md) | How do we format data in spreadsheets for effective data use?                                   | 
