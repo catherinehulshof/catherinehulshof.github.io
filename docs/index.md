@@ -17,7 +17,7 @@ Overview of the lessons:
 
 ## Detailed structure
 
-### Day 1: Data organization & cleaning
+### Session 1: Data organization & cleaning
 
 There are two lessons in this section. The first is a spreadsheet lesson that teaches good data organization, and some data cleaning and quality control checking in a spreadsheet program.
 
@@ -27,7 +27,7 @@ The second lesson uses a spreadsheet-like program called [OpenRefine](http://ope
 
   * [OpenRefine lesson](http://datacarpentry.org/OpenRefine-ecology-lesson/) 
 
-### Day 2: Data analysis & visualization
+### Session 2: Data analysis & visualization
 
 These lessons include a basic introduction to R syntax, importing CSV data, and subsetting and merging data. It finishes with calculating summary statistics and creating simple plots.
 
