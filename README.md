@@ -2,15 +2,11 @@
 
 Overview
 
-This workshop is built from the Carpentries lessons. The Carpentries' aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. This workshop uses a tabular ecology dataset and teaches data cleaning, management, analysis and visualization. There are no pre-requisites, and the materials assume no prior knowledge about the tools.
+This workshop is built from the Carpentries lessons and designed for the Scientists in Parks program. The Carpentries' aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. This workshop uses a tabular ecology dataset and teaches data cleaning, management, analysis, and visualization. There are no pre-requisites, and the materials assume no prior knowledge about the tools.
 
 The workshop uses a single tabular data set that contains observations about adorable small mammals over a long period of time in Arizona.
 
 [Setup and installation](setup.md)
-
-Data download
-
-
 
 Overview of the lessons:
 
@@ -25,7 +21,6 @@ Overview of the lessons:
 There are two lessons in this section. The first is a spreadsheet lesson that teaches good data organization, and some data cleaning and quality control checking in a spreadsheet program.
 
   * [spreadsheet lesson](http://datacarpentry.org/spreadsheet-ecology-lesson/)
-  * [spreadsheet lesson](episodes/00-spreadsheet-overview.md/)
 
 The second lesson uses a spreadsheet-like program called [OpenRefine](http://openrefine.org/) to teach data cleaning and filtering
 
