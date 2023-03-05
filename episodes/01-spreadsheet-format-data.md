@@ -142,18 +142,18 @@ start analyzing the data.
 > 
 > > ## Solution
 > > - Take about 10 minutes to work on this exercise.
-> > - All the mistakes in [02-common-mistakes](02-common-mistakes) are present in the messy dataset. If the
+> > - All the mistakes in [02-common-mistakes](02-spreadsheet-common-mistakes) are present in the messy dataset. If the
 > > exercise is done during a workshop, ask people what they saw as wrong with
-> > the data. As they bring up different points, you can refer to [02-common-mistakes](02-common-mistakes)
+> > the data. As they bring up different points, you can refer to [02-common-mistakes](02-spreadsheet-common-mistakes)
 > > or expand a bit on the point they brought up.  
 > > - Note that there is a problem with dates in table 'plot 3' in `2014` tab. The field assistant who collected the data
 > > for year 2014 initially forgot to include their data for 'plot 3'. They came back in 2015 to include the missing data and 
 > > entered the dates for 'plot 3' in the dataset without the year. Excel automatically filled in the missing year as the
 > > current year (i.e. 2015) - introducing an error in the data without the field assistant realising. If you get a response 
 > > from the participants that they've spotted and fixed the problem with date, you can say you'll come back to dates again 
-> > towards the end of lesson in episode [03-dates-as-data](03-dates-as-data). If participants have not spotted the 
+> > towards the end of lesson in episode [03-dates-as-data](03-spreadsheet-dates-as-data). If participants have not spotted the 
 > > problem with dates in 'plot 3' table, that's fine as you will address peculiarities of working with dates in 
-> > spreadsheets in episode [03-dates-as-data](03-dates-as-data).  
+> > spreadsheets in episode [03-dates-as-data](03-spreadsheet-dates-as-data).  
 > {: .solution}
 {: .challenge}
 
