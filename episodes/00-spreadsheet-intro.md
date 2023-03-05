@@ -133,4 +133,4 @@ In this lesson we're going to talk about:
 2. [Formatting problems](02-spreadsheet-common-mistakes.md)
 3. [Dates as data](03-spreadsheet-dates-as-data.md)
 4. [Quality control](04-spreadsheet-quality-control.md)
-5. [Exporting data](05-spreadsheet-exporting-data.md)
+5. [Exporting data](05-spreadsheet-export-data.md)
