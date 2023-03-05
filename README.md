@@ -29,7 +29,7 @@ There are two lessons in this section. The first is a spreadsheet lesson that te
 
 The second lesson uses a spreadsheet-like program called [OpenRefine](http://openrefine.org/) to teach data cleaning and filtering
 
-  * [OpenRefine lesson](http://datacarpentry.org/OpenRefine-ecology-lesson/)
+  * [OpenRefine lesson](http://datacarpentry.org/OpenRefine-ecology-lesson/) 
 
 ### Day 2: Data analysis & visualization
 
