@@ -129,7 +129,7 @@ to be the program most used by biologists and ecologists.
 
 In this lesson we're going to talk about:
 
-1. [Formatting data tables in spreadsheets](spreadsheet-format-data.md)
+1. [Formatting data tables in spreadsheets](01-spreadsheet-format-data.md)
 2. [Formatting problems](02-spreadsheet-common-mistakes.md)
 3. [Dates as data](03-spreadsheet-dates-as-data.md)
 4. [Quality control](04-spreadsheet-quality-control.md)
