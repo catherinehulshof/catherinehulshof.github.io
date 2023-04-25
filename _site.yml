@@ -1,0 +1,20 @@
+name: "my-website"
+navbar:
+  title: "Data Science Basics for Scientists in Parks"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Admin"
+      href: admin.html
+    - text: "Setup"
+      href: setup.html
+    - text: "Week 1"
+      href: week-one.html
+    - text: "Week 2"
+      href: week-two.html
+    - text: "Week 3"
+      href: week-three.html
+    - text: "Misc"
+      href: misc.html
+        
+output_dir: docs

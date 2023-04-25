@@ -1,4 +1,6 @@
-# Data Science Basics for Scientists in Parks
+---
+title: "Data Science Basics for Scientists in Parks"
+---
 
 Overview
 
