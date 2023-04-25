@@ -4,6 +4,12 @@ Overview
 
 This workshop is built from the Carpentries lessons. The Carpentries' aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. This workshop uses a tabular ecology dataset and teaches data cleaning, management, analysis and visualization. There are no pre-requisites, and the materials assume no prior knowledge about the tools.
 
+---
+title: Home
+nav_order: 0
+# nav_exclude: true
+---
+
 The workshop uses a single tabular data set that contains observations about adorable small mammals over a long period of time in Arizona.
 
 [Setup and installation instructions](setup.md)
