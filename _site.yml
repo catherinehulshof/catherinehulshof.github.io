@@ -8,12 +8,8 @@ navbar:
       href: admin.html
     - text: "Setup"
       href: setup.html
-    - text: "Week 1"
-      href: week-one.html
-    - text: "Week 2"
-      href: week-two.html
-    - text: "Week 3"
-      href: week-three.html
+    - text: "Lessons"
+      href: lessons.html
     - text: "Misc"
       href: misc.html
         

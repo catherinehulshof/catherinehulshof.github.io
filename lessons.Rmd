@@ -1,0 +1,24 @@
+---
+title: "Lessons"
+output: html_document
+---
+
+# Workshop Lessons
+In this workshop we will be using lessons taken from [Data Carpentry](https://datacarpentry.org/). For these lessons we will be relying on software and data availble via the [Setup](setup.html) page. 
+
+## Week One
+### Session 1: Data organization & cleaning
+
+There are two lessons in this section. The first is a spreadsheet lesson that teaches good data organization, and some data cleaning and quality control checking in a spreadsheet program.
+
+  * [Spreadsheet lesson](http://datacarpentry.org/spreadsheet-ecology-lesson/)
+
+The second lesson uses a spreadsheet-like program called [OpenRefine](http://openrefine.org/) to teach data cleaning and filtering
+
+  * [OpenRefine lesson](http://datacarpentry.org/OpenRefine-ecology-lesson/) 
+
+### Session 2: Data analysis & visualization
+
+These lessons include a basic introduction to R syntax, importing CSV data, and subsetting and merging data. It finishes with calculating summary statistics and creating simple plots.
+
+  * [R lesson](http://datacarpentry.org/R-ecology-lesson/)
