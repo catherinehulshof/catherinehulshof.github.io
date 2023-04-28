@@ -14,11 +14,16 @@ workshop!
 
 # Data
 
-Download this data file to your computer: [https://ndownloader.figshare.com/files/2252083](https://ndownloader.figshare.com/files/2252083)
+Download these two files to your computer: 
+
+1. [https://ndownloader.figshare.com/files/2252083](https://ndownloader.figshare.com/files/2252083). 
+* This will download a file named 'survey_data_spreadsheet_messy.xls".
+3. [https://ndownloader.figshare.com/files/7823341](https://ndownloader.figshare.com/files/7823341). 
+* This will download a file named 'Portal_rodents_19772002_scinameUUIDs.csv'
 
 ## About the data
 
-The data for this lesson is a part of the Data Carpentry Ecology workshop. It is a teaching version of the Portal Database. Thee data is a subset of the teaching version that has been intentionally ‘messed up’ for this lesson.
+The data for this lesson are part of the Data Carpentry Ecology workshop. The fileS are teaching versions of the Portal Database. The data are a subset of the teaching version that have been intentionally ‘messed up’ for this lesson.
 
 The data for this lesson and the workshop are in the Portal Project Teaching Database available on FigShare, with a CC-BY license available for reuse.
 
