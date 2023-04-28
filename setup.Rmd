@@ -14,12 +14,17 @@ workshop!
 
 # Data
 
-Download these two files to your computer: 
+For **Session 1** (Data organization & cleaning), download these two files to your computer: 
 
 1. [https://ndownloader.figshare.com/files/2252083](https://ndownloader.figshare.com/files/2252083). 
 * This will download a file named 'survey_data_spreadsheet_messy.xls".
 3. [https://ndownloader.figshare.com/files/7823341](https://ndownloader.figshare.com/files/7823341). 
 * This will download a file named 'Portal_rodents_19772002_scinameUUIDs.csv'
+
+For **Session 2** (Data analysis & visualization), download this file to your computer:
+
+1. [https://ndownloader.figshare.com/files/2292169](https://ndownloader.figshare.com/files/2292169).
+* This will download a file named 'combined.csv'.
 
 ## About the data
 
