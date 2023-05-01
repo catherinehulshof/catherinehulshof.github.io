@@ -12,13 +12,17 @@ This workshop is designed to be run on your laptop. First, you will need to down
 install some software. After following the instructions on this page, you should have everything you need to participate fully in the 
 workshop!
 
+# Installation Video
+
+If you need a demonstration of the data download and software installation, check out this [YouTube video](https://youtu.be/5tylbtKyhiU).
+
 # Data
 
 For **Session 1** (Data organization & cleaning), download these two files to your computer: 
 
 1. [https://ndownloader.figshare.com/files/2252083](https://ndownloader.figshare.com/files/2252083). 
 * This will download a file named 'survey_data_spreadsheet_messy.xls".
-3. [https://ndownloader.figshare.com/files/7823341](https://ndownloader.figshare.com/files/7823341). 
+2. [https://ndownloader.figshare.com/files/7823341](https://ndownloader.figshare.com/files/7823341). 
 * This will download a file named 'Portal_rodents_19772002_scinameUUIDs.csv'
 
 For **Session 2** (Data analysis & visualization), download this file to your computer:
@@ -28,7 +32,7 @@ For **Session 2** (Data analysis & visualization), download this file to your co
 
 ## About the data
 
-The data for this lesson are part of the Data Carpentry Ecology workshop. The fileS are teaching versions of the Portal Database. The data are a subset of the teaching version that have been intentionally ‘messed up’ for this lesson.
+The data for this lesson are part of the Data Carpentry Ecology workshop. The files are teaching versions of the Portal Database. The data are a subset of the teaching version that have been intentionally ‘messed up’ for this lesson.
 
 The data for this lesson and the workshop are in the Portal Project Teaching Database available on FigShare, with a CC-BY license available for reuse.
 
